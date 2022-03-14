@@ -1,2 +1,2 @@
-# Web-Develop
-Hi!, im a recently college graduated programmer focused on Web development, I have great knowledge on HTML 5, CSS, JAVASCRIPT, BOOSTRAP5, AJAX, JQUERY, PHP (also i have a Next U Front-End certicate) and I know basic programmin on C#, PYTHON and Databases.  Im a easy learning person with a great charisma wanting to gain more knowledge and experience for my career!
+This a responsive website oriented for a music streaming platform, with forms validation and a live time search bar, the website also shows the top 3 most listened songs in the main page.
+NOTE: In order to run the website properly, it must be run with the live server extension. :)
